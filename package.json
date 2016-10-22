@@ -1,12 +1,22 @@
 {
   "name": "friendfinder",
   "version": "1.0.0",
+  "description": “friend finder app”,
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "path": "^0.12.7",
+    "require": "^2.4.20"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mariadoyle/friendfinder.git"
+  },
+  "author": “maria doyle“,
   "license": "ISC",
-  "description": ""
-}
+  }
