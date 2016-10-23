@@ -1,12 +1,12 @@
 {
-  "name": "friendfinder",
+  "name": "package.json",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "dependencies": {
     "body-parser": "^1.15.2",
-    "path": "^0.12.7",
-    "require": "^2.4.20"
+    "express": "^4.14.0",
+    "path": "^0.12.7"
   },
   "devDependencies": {},
   "scripts": {
@@ -19,4 +19,4 @@
   },
   "author": "",
   "license": "ISC"
-}
+  }
